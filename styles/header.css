@@ -31,6 +31,9 @@
     display: block;
 
 }
+.container-botao{
+    display: none;
+}
 
 .logo{
     display: flex;
